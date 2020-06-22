@@ -1,13 +1,13 @@
 import React from 'react';
-//import './resources/scss/index.scss'
+import './resources/scss/app.scss'
+//import 'bootstrap/dist/css/bootstrap.css'
+
+import Home from './resources/containers/Home';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h4>Victor Castro</h4>
-        +51 961509467 / victor@castrocontreras.com
-      </header>
+      <Home></Home>
     </div>
   );
 }
