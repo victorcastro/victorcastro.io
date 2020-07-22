@@ -1,0 +1,13 @@
+@import '_variables';
+
+@import './containers/home';
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+html, body, #root, .App {
+    height: 100%;
+}
+
+body {
+    padding: 30px;
+}

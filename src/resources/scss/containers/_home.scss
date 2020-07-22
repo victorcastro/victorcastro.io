@@ -1,0 +1,42 @@
+#home {
+    #me {
+        position: relative;
+
+        .slider {
+            position: relative;
+            display: inline-block;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            clip-path: polygon(31% 0, 100% 25%, 61% 100%, 0 93%);
+        }
+
+        @media (min-width: 1200px) {
+            .slider {
+                top: -5vh;
+                left: -18.5vw;
+                width: 56vw;
+                height: 80vh;
+            }   
+        }
+    }
+
+    .quote {
+        h1 {
+            font-size: $font-size-base * 6;
+        }
+    }
+
+    #followme {
+       small {
+        transform: rotate(90deg);
+       }
+
+       .line {
+           width: 1px;
+           height: 60px;
+           background: white;
+           display: table;
+       }
+   }
+}
