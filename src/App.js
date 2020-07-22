@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap'
+import Menu from './components/Menu/Menu'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <h4>Victor Castro</h4>
         +51 961509467 / victor@castrocontreras.com
       </header>
+      <Menu/>
     </div>
   );
 }
