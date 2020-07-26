@@ -1,8 +1,11 @@
+@import 'basic';
+@import 'layout';
 @import '_variables';
 
 @import './containers/home';
 
 @import '~bootstrap/scss/bootstrap.scss';
+@import "~animate.css";
 
 html, body, #root, .App {
     height: 100%;
