@@ -2,7 +2,7 @@ import React from 'react';
 import './resources/scss/app.scss'
 //import 'bootstrap/dist/css/bootstrap.css'
 
-import Home from './resources/containers/Home';
+import Home from './components/Content/Home/Home';
 
 function App() {
   return (
