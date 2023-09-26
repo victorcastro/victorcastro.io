@@ -36,13 +36,13 @@ const Home = () => (
                               <div className="logo" style={{backgroundImage: 'url(images/me-bw.jpg)'}}/>
                               <h1 className="h-title">
                                   Hello, I’m <strong>Victor Castro</strong>, Full Stack Programmer. <br />
-                                  Front-end <b>Developer</b> Based in <b>iOS, Flutter</b> and ReactJS.<br />
-                                  Back-end with Java, <b>NodeJS</b> and PHP.
+                                  Front-end <b>Developer</b> Based in <b>iOS and Flutter</b>.<br />
+                                  Back-end with <b>NodeJS</b> and PHP.
                               </h1>
                               <div className="h-subtitle typing-subtitle">
-                                  <p>I code cool <strong>websites</strong></p>
+                                  <p>I Breathing <strong>code</strong></p>
                                   <p>I develop <strong>mobile apps</strong></p>
-                                  <p>I love <strong>javascript</strong></p>
+                                  <p>I love <strong>SwiftUI</strong></p>
                               </div>
                               <span className="typed-subtitle"/>
                           </div>
@@ -55,7 +55,7 @@ const Home = () => (
           <footer className="footer">
               <div className="copy">
                   <p>victorcastro.io@icloud.com</p>
-                  <p>(+51) 961 509 467</p>
+                  <p>(+51) 902 003 434</p>
               </div>
               <div className="soc-box">
                   <div className="follow-label">Follow Me</div>
