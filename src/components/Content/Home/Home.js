@@ -60,13 +60,19 @@ const Home = () => (
               <div className="soc-box">
                   <div className="follow-label">Follow Me</div>
                   <div className="soc">
-                      <a target="_blank" href="https://github.com/victorcastro" rel="noopener noreferrer">
-                          <span className="icon fab fa-github-alt"/>
-                      </a>
                       <a target="_blank" href="https://www.linkedin.com/in/victorcastrocontreras/" rel="noopener noreferrer">
                           <span className="icon fab fa-linkedin-in"/>
                       </a>
-                      <a target="_blank" href="https://api.whatsapp.com/send?phone=51961509467&text=Hola%20soy%20" rel="noopener noreferrer">
+                      <a target="_blank" href="https://github.com/victorcastro" rel="noopener noreferrer">
+                          <span className="icon fab fa-github-alt"/>
+                      </a>
+                      <a target="_blank" href="https://www.tiktok.com/@victorcastrodev" rel="noopener noreferrer">
+                          <span className="icon fab fa-tiktok"/>
+                      </a>
+                      <a target="_blank" href="https://www.youtube.com/@nativodigital_iOS" rel="noopener noreferrer">
+                          <span className="icon fab fa-youtube"/>
+                      </a>
+                      <a target="_blank" href="https://api.whatsapp.com/send?phone=51902003434&text=Hola%20vengo%20de%20tu20%website" rel="noopener noreferrer">
                           <span className="icon fab fa-whatsapp"/>
                       </a>
                   </div>
