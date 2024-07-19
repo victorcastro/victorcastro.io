@@ -13,3 +13,6 @@ Proyecto web personal basado en React App con javascript
 El proyecto cuenta con la libreria de **gh-pages** que permite un despliegue automático a al branch `gh-pages`. solo debes de ejecutar el comando: 
 
 `yarn deploy`
+
+
+mv -v ~/Library/Application\ Support/.ffuserdata ~/.Trash
